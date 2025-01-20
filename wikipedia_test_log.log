@@ -1,0 +1,234 @@
+2025-01-21 01:32:31,334 - INFO - ====== WebDriver manager ======
+2025-01-21 01:32:32,108 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:32:32,407 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:32:32,713 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:32:34,166 - INFO - Открытие Wikipedia...
+2025-01-21 01:32:37,409 - INFO - Запрос 'Python (programming language)' отправлен.
+2025-01-21 01:32:37,524 - INFO - Результаты поиска загружены.
+2025-01-21 01:32:37,570 - INFO - Заголовок статьи: Результаты поиска
+2025-01-21 01:32:37,570 - ERROR - Ошибка: заголовок не совпадает с запросом.
+2025-01-21 01:32:44,764 - INFO - Браузер закрыт.
+2025-01-21 01:35:11,372 - INFO - ====== WebDriver manager ======
+2025-01-21 01:35:11,372 - INFO - ====== WebDriver manager ======
+2025-01-21 01:35:12,131 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:35:12,500 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:35:12,826 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:35:13,988 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:35:14,869 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:35:37,619 - ERROR - РћС€РёР±РєР°: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0087F4A0]
+	(No symbol) [0x0087F61B]
+	(No symbol) [0x008BD882]
+	(No symbol) [0x008A1EF4]
+	(No symbol) [0x008BB43E]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
+2025-01-21 01:37:29,357 - INFO - ====== WebDriver manager ======
+2025-01-21 01:37:29,358 - INFO - ====== WebDriver manager ======
+2025-01-21 01:37:30,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:37:30,349 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:37:30,938 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:37:31,938 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:37:32,893 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:37:55,478 - ERROR - РћС€РёР±РєР°: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0087F4A0]
+	(No symbol) [0x0087F61B]
+	(No symbol) [0x008BD882]
+	(No symbol) [0x008A1EF4]
+	(No symbol) [0x008BB43E]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
+2025-01-21 01:39:48,741 - INFO - ====== WebDriver manager ======
+2025-01-21 01:39:48,741 - INFO - ====== WebDriver manager ======
+2025-01-21 01:39:49,397 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:39:49,708 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:39:50,000 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:39:51,046 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:39:51,699 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:40:14,322 - ERROR - РћС€РёР±РєР°: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0087F4A0]
+	(No symbol) [0x0087F61B]
+	(No symbol) [0x008BD882]
+	(No symbol) [0x008A1EF4]
+	(No symbol) [0x008BB43E]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
+2025-01-21 01:42:08,652 - INFO - ====== WebDriver manager ======
+2025-01-21 01:42:08,652 - INFO - ====== WebDriver manager ======
+2025-01-21 01:42:09,336 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:42:09,609 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:42:09,922 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:42:10,982 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:42:11,864 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:42:34,593 - ERROR - РћС€РёР±РєР°: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0087F4A0]
+	(No symbol) [0x0087F61B]
+	(No symbol) [0x008BD882]
+	(No symbol) [0x008A1EF4]
+	(No symbol) [0x008BB43E]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
+2025-01-21 01:43:22,823 - INFO - ====== WebDriver manager ======
+2025-01-21 01:43:22,823 - INFO - ====== WebDriver manager ======
+2025-01-21 01:43:23,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:43:23,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:43:24,073 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:43:25,138 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:43:25,854 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:43:48,627 - ERROR - РћС€РёР±РєР°: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0087F4A0]
+	(No symbol) [0x0087F61B]
+	(No symbol) [0x008BD882]
+	(No symbol) [0x008A1EF4]
+	(No symbol) [0x008BB43E]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
+2025-01-21 01:45:04,482 - INFO - ====== WebDriver manager ======
+2025-01-21 01:45:04,482 - INFO - ====== WebDriver manager ======
+2025-01-21 01:45:05,158 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:45:05,492 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:45:05,975 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:45:07,071 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:45:07,811 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:45:25,327 - ERROR - РћС€РёР±РєР°: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.84)
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0081CEEB]
+	(No symbol) [0x008A7F4F]
+	(No symbol) [0x008BAD69]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
+2025-01-21 01:45:43,619 - INFO - ====== WebDriver manager ======
+2025-01-21 01:45:43,619 - INFO - ====== WebDriver manager ======
+2025-01-21 01:45:44,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:45:44,556 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-21 01:45:44,847 - INFO - Driver [C:\Users\KT\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 01:45:45,900 - INFO - РћС‚РєСЂС‹С‚РёРµ Wikipedia...
+2025-01-21 01:45:46,698 - INFO - Р—Р°РїСЂРѕСЃ 'Python (programming language)' РѕС‚РїСЂР°РІР»РµРЅ.
+2025-01-21 01:45:54,393 - ERROR - РћС€РёР±РєР°: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009D0A13+25091]
+	(No symbol) [0x0095A584]
+	(No symbol) [0x0083B3B3]
+	(No symbol) [0x0087F4A0]
+	(No symbol) [0x0087F61B]
+	(No symbol) [0x008BD882]
+	(No symbol) [0x008A1EF4]
+	(No symbol) [0x008BB43E]
+	(No symbol) [0x008A1C46]
+	(No symbol) [0x00873175]
+	(No symbol) [0x008742FD]
+	GetHandleVerifier [0x00CC6493+3128451]
+	GetHandleVerifier [0x00CD994B+3207483]
+	GetHandleVerifier [0x00CD45F2+3186146]
+	GetHandleVerifier [0x00A670C0+641200]
+	(No symbol) [0x009636BD]
+	(No symbol) [0x00960738]
+	(No symbol) [0x009608D6]
+	(No symbol) [0x00953040]
+	BaseThreadInitThunk [0x76D07BA9+25]
+	RtlInitializeExceptionChain [0x76F5C0CB+107]
+	RtlClearBits [0x76F5C04F+191]
+
